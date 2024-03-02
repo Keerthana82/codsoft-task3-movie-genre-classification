@@ -23,7 +23,7 @@ The dataset, acquired from Kaggle, fuels the Movie Genre Classification Project.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/genre-classification-project.git
+   git clone https://github.com/Keerthana82/codsoft-task3-movie-genre-classification.git
    ```
 
 2. **Open Jupyter Notebook:**
